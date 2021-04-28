@@ -1,0 +1,28 @@
+.main{
+  background-color: lightgray;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 50px, 20px;
+}
+
+.sidebar{
+  height: 300px;
+  width: 20%;
+  background-color: gray;
+  justify-content: center;
+}
+
+.card{
+  width: 20%;
+  height: 33%;
+  background-color: gray;
+  text-align: center;
+}
+
+.app{
+  width: 75%;
+  height: 66%;
+  background-color: gray;
+
+}
